@@ -38,7 +38,7 @@ $dbname = "note";
 2. Access the project in your web browser:
 
 ```
-http://localhost/notesaver
+http://localhost/note-saver
 ```
 
 ## Usage
