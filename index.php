@@ -10,6 +10,8 @@ $insert = false;
 $update = false;
 $delete = false;
 
+
+
 // Establish a connection to the MySQL database
 $conn = mysqli_connect($servername, $username, $password, $dbname);
 
